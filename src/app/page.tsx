@@ -3,12 +3,12 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="font-sans flex flex-col items-center justify-center min-h-screen p-8 text-center">
-      <div className="flex flex-row items-center justify-center gap-0">
+      <div className="flex flex-row items-center justify-center gap-2 md:gap-4">
         <Image
           src="/logo.png"
           alt="Basma Labs Logo"
-          width={120}
-          height={120}
+          width={35}
+          height={35}
           priority
         />
         <h1 className="text-4xl md:text-6xl font-bold">
