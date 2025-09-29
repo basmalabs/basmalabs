@@ -5,6 +5,7 @@ export {
   UseOfApplication,
   EducationalDisclaimer,
   PrivacyNoData,
+  PrivacyAndCrashData,
   InternetAndDeviceUsage,
   UpdatesAndAvailability,
   LimitationOfLiability,

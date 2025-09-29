@@ -4,7 +4,7 @@ import { LegalPage, type LegalConfig } from "@/features-products/components/priv
 const cfg: LegalConfig = {
   appName: "Salafi Audios",
   serviceProvider: "Basma Labs",
-  effectiveDate: "23 September 2025",
+  effectiveDate: "31 September 2025",
   contactEmail: "ofarooqdev@gmail.com",
   jurisdiction: {
     country: "Kingdom of Saudi Arabia",
